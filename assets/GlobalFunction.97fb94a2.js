@@ -1,0 +1,1 @@
+function r(e){return typeof e.value=="object"&&e.value!==null}function t(e){return console.log("\u{1F680} ~ file: GlobalFunction.js:10 ~ currencyFormat ~ num",e),e==null?e=0:e.toFixed(2).replace(/(\d)(?=(\d{3})+(?!\d))/g,"$1,")}export{r as CheckDataTypeOfObj,t as currencyFormat};

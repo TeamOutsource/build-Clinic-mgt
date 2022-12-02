@@ -1,0 +1,1 @@
+import{_ as e,o as t,at as r,F as s}from"./index.e23eef1a.js";const a={props:{TitleName:{type:String,require:!0}}},o={class:"text-h5 text-weight-medium q-mb-md"};function i(c,n,p,_,m,l){return t(),r("div",o,s(this.TitleName),1)}var u=e(a,[["render",i]]);export{u as T};
