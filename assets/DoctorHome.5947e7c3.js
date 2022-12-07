@@ -1,0 +1,1 @@
+import{Q as o}from"./QPage.4741071f.js";import{_ as e,o as t,c as a,w as s,D as r}from"./index.b5e91dde.js";const c={},_=r("div",null,"doctor/Home",-1);function n(d,p,f,i,m,l){return t(),a(o,{class:"q-pa-md"},{default:s(()=>[_]),_:1})}var $=e(c,[["render",n]]);export{$ as default};
